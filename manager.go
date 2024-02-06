@@ -12,10 +12,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kaspanet/kaspad/infrastructure/network/addressmanager"
+	"github.com/kgemio/kaspad/infrastructure/network/addressmanager"
 
-	"github.com/kaspanet/kaspad/app/appmessage"
-	"github.com/kaspanet/kaspad/domain/consensus/model/externalapi"
+	"github.com/kgemio/kaspad/app/appmessage"
+	"github.com/kgemio/kaspad/domain/consensus/model/externalapi"
 	"github.com/miekg/dns"
 	"github.com/pkg/errors"
 )

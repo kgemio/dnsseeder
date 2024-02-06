@@ -12,13 +12,13 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/kaspanet/kaspad/infrastructure/config"
+	"github.com/kgemio/kaspad/infrastructure/config"
 
-	"github.com/kaspanet/dnsseeder/version"
+	"github.com/kgemio/dnsseeder/version"
 	"github.com/pkg/errors"
 
 	"github.com/jessevdk/go-flags"
-	"github.com/kaspanet/kaspad/util"
+	"github.com/kgemio/kaspad/util"
 )
 
 const (
